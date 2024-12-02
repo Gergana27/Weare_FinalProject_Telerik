@@ -1,0 +1,5 @@
+tests/ConnectionsTests.class
+tests/UsersTests.class
+tests/CommentsTests.class
+tests/PostsTests.class
+base/BaseTestSetup.class

@@ -1,0 +1,9 @@
+wearetests/web/PostsTests.class
+wearetests/enums/TestData.class
+wearetests/web/AdminTests.class
+wearetests/core/RandomDataGenerator.class
+wearetests/web/UserTests.class
+wearetests/web/CommentsTests.class
+wearetests/core/WEareBaseWebTest.class
+wearetests/web/ConnectionTests.class
+wearetests/core/AssertionUtils.class

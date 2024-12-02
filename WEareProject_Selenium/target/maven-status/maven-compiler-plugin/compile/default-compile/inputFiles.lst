@@ -1,0 +1,17 @@
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/Driver.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/DriverManager.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/PropertiesManager.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/core/BaseWebPage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/core/BaseWebTest.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/enums/BrowserMode.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/enums/BrowserType.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/testframework/enums/FrameworkSettings.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/AboutUsPage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/BaseWEarePage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/HomePage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/LatestPostsPage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/RegisterPage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/SearchPage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/SignInPage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/UserHomePage.java
+/Users/gery/Desktop/Telerik Academy/WEareProject_Testing/WEareProject_Selenium/src/main/java/weare/pages/UserProfilePage.java
