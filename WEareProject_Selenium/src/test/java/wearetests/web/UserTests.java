@@ -3,11 +3,10 @@ package wearetests.web;
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
-import io.qameta.allure.Story;
 import org.junit.jupiter.api.Test;
 import testframework.DriverManager;
 import weare.pages.*;
-import wearetests.core.AssertionUtils;
+import weare.tests.AssertionUtils;
 import wearetests.core.WEareBaseWebTest;
 import wearetests.enums.TestData;
 

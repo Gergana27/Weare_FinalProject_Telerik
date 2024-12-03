@@ -8,7 +8,7 @@ import testframework.DriverManager;
 import weare.pages.HomePage;
 import weare.pages.RegisterPage;
 import weare.pages.UserHomePage;
-import wearetests.core.AssertionUtils;
+import weare.tests.AssertionUtils;
 import wearetests.core.WEareBaseWebTest;
 import wearetests.enums.TestData;
 @Epic("Admin Tests")

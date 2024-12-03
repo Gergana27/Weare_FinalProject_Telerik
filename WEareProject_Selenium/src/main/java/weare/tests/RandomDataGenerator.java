@@ -1,4 +1,4 @@
-package wearetests.core;
+package weare.tests;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

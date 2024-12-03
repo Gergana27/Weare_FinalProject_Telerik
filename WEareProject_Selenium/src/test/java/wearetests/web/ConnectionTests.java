@@ -7,8 +7,8 @@ import org.junit.jupiter.api.Test;
 import testframework.DriverManager;
 import weare.pages.SearchPage;
 import weare.pages.UserHomePage;
-import wearetests.core.AssertionUtils;
-import wearetests.core.RandomDataGenerator;
+import weare.tests.AssertionUtils;
+import weare.tests.RandomDataGenerator;
 import wearetests.core.WEareBaseWebTest;
 import wearetests.enums.TestData;
 

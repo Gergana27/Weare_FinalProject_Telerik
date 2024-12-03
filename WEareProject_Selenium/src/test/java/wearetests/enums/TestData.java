@@ -1,6 +1,6 @@
 package wearetests.enums;
 
-import static wearetests.core.RandomDataGenerator.*;
+import static weare.tests.RandomDataGenerator.*;
 
 public enum TestData {
     USER_PASSWORD("test123"),
